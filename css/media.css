@@ -1,0 +1,38 @@
+@media (max-width: 700px) {
+    
+    
+    
+.father{
+    display: none;
+}
+.father-mobile{
+    display: block;
+}
+
+    }
+    
+
+
+
+
+@media (min-width: 701px){
+
+.for-pc{
+    display: block;
+}
+
+
+
+.for-mobile{
+    display: none;
+}
+
+.father{
+    display: block;
+}
+
+.father-mobile{
+    display: none;
+}
+
+}
